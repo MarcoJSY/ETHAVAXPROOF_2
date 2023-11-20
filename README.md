@@ -61,8 +61,8 @@ Typically at http://localhost:3000/
 
 ## Author
 
-  Mendizabal, Jed Marco
-    GitHub: @MarcoJSY
+  - Mendizabal, Jed Marco
+    - GitHub: @MarcoJSY
   
 ## License
 
